@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kalaiselvi-ui/react-shopping-cart-using-userreducer-contextapi.git/static/css/main.073c9b0a.css",
+    "main.js": "/kalaiselvi-ui/react-shopping-cart-using-userreducer-contextapi.git/static/js/main.0bc43b87.js",
+    "static/js/787.8027385c.chunk.js": "/kalaiselvi-ui/react-shopping-cart-using-userreducer-contextapi.git/static/js/787.8027385c.chunk.js",
+    "static/media/logo.svg": "/kalaiselvi-ui/react-shopping-cart-using-userreducer-contextapi.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/kalaiselvi-ui/react-shopping-cart-using-userreducer-contextapi.git/index.html",
+    "main.073c9b0a.css.map": "/kalaiselvi-ui/react-shopping-cart-using-userreducer-contextapi.git/static/css/main.073c9b0a.css.map",
+    "main.0bc43b87.js.map": "/kalaiselvi-ui/react-shopping-cart-using-userreducer-contextapi.git/static/js/main.0bc43b87.js.map",
+    "787.8027385c.chunk.js.map": "/kalaiselvi-ui/react-shopping-cart-using-userreducer-contextapi.git/static/js/787.8027385c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0bc43b87.js"
+  ]
+}
